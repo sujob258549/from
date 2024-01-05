@@ -1,0 +1,20 @@
+label{
+    display: block;
+}
+
+input{
+    margin-bottom: 10px;
+    padding: 10px;
+
+}
+::placeholder, lable{
+    font-size: 16px;
+    font-weight: 600;
+    color: #000;
+}
+
+label{
+    font-size: 22px;
+    font-weight: 600;
+    color: #000;
+}
